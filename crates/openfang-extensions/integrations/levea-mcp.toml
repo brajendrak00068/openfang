@@ -1,6 +1,6 @@
 id = "levea-mcp"
 name = "Levea"
-description = "Autonomous AI video editor for viral clips, 280+ animated caption templates, 9:16 speaker reframing, B-roll, and cloud MP4 exports through the Levea MCP server"
+description = "Autonomous AI video editor for viral clips, 200+ animated caption templates, 9:16 speaker reframing, B-roll, and cloud MP4 exports through the Levea MCP server"
 category = "ai"
 icon = "🎬"
 tags = ["video", "video-editing", "ai", "captions", "reels", "shorts", "tiktok", "mp4"]
